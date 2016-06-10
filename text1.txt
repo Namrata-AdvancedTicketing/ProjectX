@@ -1,2 +1,4 @@
-Hi 
-This is testing File for Tagging.
+Function Testing()
+{
+   Branch 1 Tag 1
+}
